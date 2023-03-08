@@ -1,1 +1,1 @@
-# reactWrokshop1
+# client server architecture using RMI
